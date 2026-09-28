@@ -1,0 +1,7 @@
+# eval 运行产物
+evals/results/
+eval-out.json
+
+# Python
+__pycache__/
+*.pyc
