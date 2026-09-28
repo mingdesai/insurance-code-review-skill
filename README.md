@@ -10,6 +10,7 @@ references/
   permission-isolation.md            # 组织/部门多级权限隔离（Milvus 打标 + 检索过滤 + 检索后复核）
   classified-docs.md                 # 涉密/非涉密共存的双层安全兜底校验
   kb-validation.md                   # 知识库效果验证（标准化问答对 + 三层指标）
+使用说明.md                           # 安装、触发、使用与评测指南
 设计文档.md                           # 设计来源：三个安全/验证主题的原始论述
 evals/                                # claude plugin eval 评测套件（每个子目录一个用例）
   <case>/prompt.md                    #   输入代码 + 运行配置
